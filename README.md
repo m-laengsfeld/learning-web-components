@@ -1,2 +1,3 @@
-# learning-web-components
-Code for web components as part of the web dev course
+# Web Components
+
+**This repository will contain my work on web components.**
